@@ -9,11 +9,12 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>fullstacktest</artifactId>
+    <artifactId>fullstacktest_parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>fullstacktest</name>
+    <name>fullstacktest_parent</name>
     <packaging>pom</packaging>
     <modules>
         <module>backend</module>
+        <module>frontend</module>
     </modules>
     </project>
